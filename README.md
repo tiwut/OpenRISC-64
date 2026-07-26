@@ -4,6 +4,8 @@ A custom 64-bit single-core RISC-V processor designed from scratch in SystemVeri
 
 100% open-source, non-proprietary, and built strictly using free, open-source EDA tools.
 
+[ROADMAP](ROADMAP.md)
+
 ## Key Architecture Goals
 
 * **Architecture:** RISC-V 64-bit Base (RV64I)
