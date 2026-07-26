@@ -4,7 +4,11 @@ A custom 64-bit single-core RISC-V processor designed from scratch in SystemVeri
 
 100% open-source, non-proprietary, and built strictly using free, open-source EDA tools.
 
-[ROADMAP](ROADMAP.md)
+<p align="center">
+  <a href="ROADMAP.md">
+    <img src="roadmap_button.svg" alt="View Roadmap">
+  </a>
+</p>
 
 <p align="center">
   <img src="cpu_architecture.svg" alt="OpenRISC-64 CPU Architecture Graph" width="800">
