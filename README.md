@@ -6,6 +6,10 @@ A custom 64-bit single-core RISC-V processor designed from scratch in SystemVeri
 
 [ROADMAP](ROADMAP.md)
 
+<p align="center">
+  <img src="cpu_architecture.svg" alt="OpenRISC-64 CPU Architecture Graph" width="800">
+</p>
+
 ## Key Architecture Goals
 
 * **Architecture:** RISC-V 64-bit Base (RV64I)
